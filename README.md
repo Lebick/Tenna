@@ -5,3 +5,9 @@
 
 사용한 패키지
 https://github.com/kirurobo/UniWindowController/tree/main
+
+사용한 폰트 (갈무리9)
+https://quiple.dev/galmuri
+
+스프라이트 원본 게임
+https://deltarune.com/
